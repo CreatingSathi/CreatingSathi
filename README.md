@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathi Banerjee</h1>
-<h3 align="center">A Software Developer in full stack Java from NIIT</h3>
+<h3 align="center"> Program in Full Stack Software Engineering - Java from NIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creatingsathi&label=Profile%20views&color=0e75b6&style=flat" alt="creatingsathi" /> </p>
 
